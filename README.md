@@ -1,4 +1,4 @@
-# Intermediate Python 
+# Advanced Python 
 by Ray Khorsandi
 
 | Topic | Demo | Exercise | Solution |
